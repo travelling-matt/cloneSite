@@ -149,6 +149,10 @@ a {
     border: 1px #000;    
 }
 
+.form {
+    width: 40%;
+}
+
 .app-happy {
     text-align: center
 
@@ -258,6 +262,10 @@ h2 {
     font-weight: bold;
 }
 
+.centered {
+    text-align: center;
+}
+
 .buttonClass {
     font-size:15px;
     /*font-family:Arial;*/
@@ -274,6 +282,16 @@ h2 {
     border-radius: 4px;
     background:#ffc72c;    
   }
+
+.button-submit {
+    font-size:15px;
+    padding: 8px 25px 5px 25px;
+    border-width:1px;
+    border-radius: 4px;
+    background:#ffc72c; 
+    box-shadow: 0px 2px #d3d3d3;
+    ;
+}
 
 section {
     margin: 40px 0;
