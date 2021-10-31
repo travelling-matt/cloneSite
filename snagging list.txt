@@ -1,0 +1,9 @@
+Snagging list
+
+1. Mc Plant text bg on hero image.
+
+2. verticle spacing on info grids.
+
+3. form - need to tweak font sizes.
+
+4. footer - logo needs to be inline with copyright text.
